@@ -16,7 +16,7 @@ This project contains manual test cases for a flight reservation application.
 - Flight_Reservation_Test_Cases.xlsx
 
 ## Tools Used
-. Excel
+- Excel
 
 ## Author
 Sravani
