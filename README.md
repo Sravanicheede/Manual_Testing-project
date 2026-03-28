@@ -13,7 +13,7 @@ This project contains manual test cases for a flight reservation application.
 - Help 
 -About section
 ## Files Included
--Flight_Reservation_Test_Cases.xlsx
+- Flight_Reservation_Test_Cases.xlsx
 
 ## Tools Used
 . Excel
